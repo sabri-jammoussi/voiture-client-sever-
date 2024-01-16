@@ -1,0 +1,144 @@
+.banner-item-01 {
+  padding: 300px 0px;
+  background-image: url(/images/back2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 15px;
+}
+.banner-item-02 {
+  padding: 300px 0px;
+  background-image: url(/images/slide_01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+ }
+ .text-content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  width: 100%;
+ }
+ .text-content h4 {
+  color: #f33f3f;
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 15px;
+ }
+ .text-content h2 {
+  color: #fff;
+  font-size: 62px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+ }
+ .first-look {
+  height: 120vh;
+  margin-top: 20vh;
+ }
+ .first-look-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 50%;
+  }
+ .first-look h2 {
+  color: #f58888;
+  font-size: 50px;
+  text-transform: uppercase; 
+  letter-spacing: 5px;
+ } 
+ .container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.categorie-list {
+  list-style: none;
+  padding: 0;
+}
+
+.categorie-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.categorie-details {
+  display: flex;
+  align-items: center;
+}
+
+.categorie-name {
+  font-weight: bold;
+}
+
+.categorie-image {
+  margin-left: 10px;
+  width: 220px;
+  height: 170px;
+  object-fit: cover;
+}
+.btn-edit {
+  background-color: #3498db;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-edit:hover {
+  background-color: #2980b9;
+}
+
+.btn-edit:focus {
+  outline: none;
+}
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+.btn-style {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.submit_voiture{
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.cancel_voiture{
+  background-color: #6c757d;
+color: #fff;
+border: none;
+border-radius: 5px;
+padding: 5px 10px;
+cursor: pointer;
+}

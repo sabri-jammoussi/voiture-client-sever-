@@ -1,0 +1,17 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #000000; /* Set text color to black */
+  }
+  
+.h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .p {
+    margin-bottom: 10px;
+    line-height: 0.1;
+  }
+  
