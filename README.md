@@ -8,7 +8,7 @@ I think you like my project .
 
 <p align="center"><img width="368px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png"></p>
 
-<a href="https://ijs.to"><img src="https://img.shields.io/badge/Learn%20JavaScript-iJS.to%E2%86%92-gray.svg?colorA=B838F0&colorB=8721C3&style=for-the-badge"/></a>
+
 
 
 ## Introduction
